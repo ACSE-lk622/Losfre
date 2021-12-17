@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Losfre, as a application engineer in metrology field in the semiconductor industry
+- 👀 I am now learning programming skills in C++ and python 
